@@ -983,5 +983,46 @@
 }
 
 .flag.flag-eu {
+
     background-position: 0 -44px;
+}
+
+.flag.flag-aq {
+    background-position: -64px -165px;
+}
+
+.flag.flag-bl {
+    background-position: -80px -165px;
+}
+
+.flag.flag-bq {
+    background-position: -96px -165px;
+}
+
+.flag.flag-cc {
+    background-position: -112px -165px;
+}
+
+.flag.flag-cx {
+    background-position: -128px -165px;
+}
+
+.flag.flag-mf {
+    background-position: -144px -165px;
+}
+
+.flag.flag-ap {
+    background-position: -160px -165px;
+}
+
+.flag.flag-a1{
+    background-position: -176px -165px;
+}
+
+.flag.flag-a2 {
+    background-position: -192px -165px;
+}
+
+.flag.flag-xx {
+    background-position: -208px -165px;
 }
